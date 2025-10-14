@@ -1,3 +1,6 @@
+Followed Traverse Media course `Modern React From the Begining` https://www.udemy.com/course/modern-react-from-the-beginning/?srsltid=AfmBOor5hp5QvnDJSn9EC6dNrL_urastEsb-S5afEEudrZCXQdeb00XP
+
+
 Welcome to your new TanStack app! 
 
 # Getting Started
